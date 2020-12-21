@@ -1,0 +1,101 @@
+ID	Date	Description	Category	Amount	Account	Account #	Institution
+1	2/14/2018	Methow Conservancy	Charity	-250	Family Checking	xxxx3244	Chase - Checking
+2	2/14/2018	"Zeitgeist Coffee, Seattle, WA"	Coffee	-10.1	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+3	2/13/2018	"Shell Oil, Auto Fuel Dispenser"	Auto and Gas	-38.69	American Express	xxxx1005	American Express Cards
+4	2/12/2018	"Winthrop Mountain Sports Winthrop, WA"	Gear and Clothing	-39.32	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+5	2/11/2018	"Toyota of Seattle, Seattle, WA"	Auto and Gas	-251.38	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+6	2/10/2018	Amazon.com	Gear and Clothing	-25.81	Visa Rewards	xxxx3827	Chase - Credit Card
+7	2/9/2018	Chase Bank Mortgage	Mortgage	-1903	Family Checking	xxxx3244	Chase - Checking
+8	2/9/2018	Paycheck	Paycheck	5544	Family Checking	xxxx3244	Chase - Checking
+9	2/9/2018	Audible	Subscriptions	-9.12	Visa Rewards	xxxx3827	Chase - Credit Card
+10	2/8/2018	"Storyville Coffee, Seattle, WA"	Eating Out	-8.93	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+11	2/8/2018	Hank's Harvest Foodstwisp WA	Groceries	-46.46	American Express	xxxx1005	American Express Cards
+12	2/7/2018	"Ikea Seattle, Renton, WA"	Home Improvements	-246.54	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+13	2/6/2018	Itunes.com	Subscriptions	-1.59	Visa Rewards	xxxx5345	Chase - Credit Card
+14	2/5/2018	"Mazama Store, Mazama"	Eating Out	-15.53	American Express	xxxx1005	American Express Cards
+15	2/5/2018	New York Times Digital	Subscriptions	-18.08	Visa Rewards	xxxx5345	Chase - Credit Card
+16	2/4/2018	Roadpost Usa	Subscriptions	-35.85	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+17	2/3/2018	Chevron Service Stn	Auto and Gas	-27.69	American Express	xxxx1005	American Express Cards
+18	2/2/2018	Texaco Service Stn	Auto and Gas	-25.28	American Express	xxxx1005	American Express Cards
+19	2/1/2018	"Costco Gas, Burlington"	Auto and Gas	-19.16	American Express	xxxx1005	American Express Cards
+20	2/1/2018	Dropbox	Subscriptions	-6.19	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+21	1/31/2018	"Zoka Coffee Roa, Seattle, WA"	Eating Out	-2.1	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+22	1/31/2018	"Okanogan County Energy, Winthrop, WA"	Utilities	-164.35	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+23	1/30/2018	Alaska Air	Travel	-156.1	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+24	1/29/2018	Seattle YMCA	Charity	-400	Visa Rewards	xxxx5345	Chase - Credit Card
+25	1/28/2018	"Trader Joe's #130, Seattle"	Groceries	-69.1	American Express	xxxx1005	American Express Cards
+26	1/27/2018	Roadpost Usa	Subscriptions	-56.98	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+27	1/26/2018	Chevron Service Stn	Auto and Gas	-37.62	American Express	xxxx1005	American Express Cards
+28	1/26/2018	Tiller (tillerhq.com)	Subscriptions	-10	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+29	1/25/2018	"Shell Oil, Auto Fuel Dispenser"	Auto and Gas	-47.83	American Express	xxxx1005	American Express Cards
+30	1/24/2018	"Winthrop Mountain Sports Winthrop, WA"	Stuff	-55.82	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+31	1/23/2018	Alaska Wilderness League	Charity	-400	Family Checking	xxxx3244	Chase - Checking
+32	1/22/2018	Big Star Montessori	Classes	-740	Family Checking	xxxx3244	Chase - Checking
+33	1/22/2018	Itunes.com	Subscriptions	-2.99	Visa Rewards	xxxx5345	Chase - Credit Card
+34	1/21/2018	"Mazama Store, Mazama"	Eating Out	-18.18	American Express	xxxx1005	American Express Cards
+35	1/19/2018	"Toyota of Seattle, Seattle, WA"	Auto and Gas	-435.11	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+36	1/18/2018	Amazon.com	Gear and Clothing	-30	Visa Rewards	xxxx3827	Chase - Credit Card
+37	1/16/2018	PCC Natural Market - Issaquah WA	Groceries	-23	American Express	xxxx1005	American Express Cards
+38	1/15/2018	Etsy	Freelance	923	Family Checking	xxxx3244	Chase - Checking
+39	1/14/2018	"Espresso Vivace Seattle, Seattle, WA"	Eating Out	-7.25	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+40	1/14/2018	"The Essential Baking Co, Seattle, WA"	Eating Out	-16.35	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+41	1/13/2018	AT&T	Phone	-125.43	Visa Rewards	xxxx5345	Chase - Credit Card
+42	1/12/2018	"Zeitgeist Coffee, Seattle, WA"	Eating Out	-12.51	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+43	1/11/2018	Centurylink	Phone	-43.73	Visa Rewards	xxxx5345	Chase - Credit Card
+44	1/10/2018	"Portage Bay Cafe and Cate, Seattle, WA"	Eating Out	-72.28	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+45	1/10/2018	Whole Foods - Seattle WA	Groceries	-108.91	American Express	xxxx1005	American Express Cards
+46	1/10/2018	Chase Bank Mortgage	Mortgage	-1903	Family Checking	xxxx3244	Chase - Checking
+47	1/10/2018	Paycheck	Paycheck	5544	Family Checking	xxxx3244	Chase - Checking
+48	1/10/2018	Audible	Subscriptions	-16.18	Visa Rewards	xxxx3827	Chase - Credit Card
+49	1/9/2018	"REI, Store 11, Seattle"	Gear and Clothing	-513.97	Visa Rewards	xxxx5345	Chase - Credit Card
+50	1/9/2018	Union Garage	Parking	-50	Visa Rewards	xxxx5345	Chase - Credit Card
+51	1/8/2018	Evergreen Iga Market	Groceries	-36.76	American Express	xxxx1005	American Express Cards
+52	1/7/2018	Glover Street Market	Eating Out	-35.34	Visa Rewards	xxxx5345	Chase - Credit Card
+53	1/6/2018	"Costco Gas, Burlington"	Auto and Gas	-19.67	American Express	xxxx1005	American Express Cards
+54	1/6/2018	Texaco Service Stn	Auto and Gas	-48.74	American Express	xxxx1005	American Express Cards
+55	1/6/2018	New York Times Digital	Subscriptions	-20	Visa Rewards	xxxx5345	Chase - Credit Card
+56	1/5/2018	Dropbox	Subscriptions	-10.81	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+57	1/4/2018	Hank's Harvest Foodstwisp WA	Groceries	-52.69	American Express	xxxx1005	American Express Cards
+58	1/3/2018	"Storyville Coffee, Seattle, WA"	Eating Out	-12.91	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+59	1/2/2018	Home Depot	Home Improvements	-251.33	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+60	1/1/2018	"Zoka Coffee Roa, Seattle, WA"	Eating Out	-3.56	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+61	1/1/2018	"Okanogan County Energy, Winthrop, WA"	Utilities	-322.84	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+62	12/31/2017	Alaska Air	Travel	-115.75	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+63	12/30/2017	Evergreen Iga Market	Groceries	-28.6	American Express	xxxx1005	American Express Cards
+64	12/29/2017	Glover Street Market	Eating Out	-27.97	Visa Rewards	xxxx5345	Chase - Credit Card
+65	12/28/2017	Big Star Montessori	Classes	-621.17	Family Checking	xxxx3244	Chase - Checking
+66	12/27/2017	United Way	Charity	-300	Visa Rewards	xxxx5345	Chase - Credit Card
+67	12/26/2017	Tiller (tillerhq.com)	Subscriptions	-6.87	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+68	12/25/2017	PCC Natural Market - Issaquah WA	Groceries	-14.63	American Express	xxxx1005	American Express Cards
+69	12/24/2017	Etsy	Freelance	653.59	Family Checking	xxxx3244	Chase - Checking
+70	12/23/2017	"Espresso Vivace Seattle, Seattle, WA"	Eating Out	-6.18	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+71	12/23/2017	"The Essential Baking Co, Seattle, WA"	Eating Out	-15.96	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+72	12/22/2017	"Shell Oil, Auto Fuel Dispenser"	Auto and Gas	-25.17	American Express	xxxx1005	American Express Cards
+73	12/22/2017	"Winthrop Mountain Sports Winthrop, WA"	Stuff	-50.35	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+74	12/21/2017	"REI, Store 11, Seattle"	Gear and Clothing	-488.96	Visa Rewards	xxxx5345	Chase - Credit Card
+75	12/20/2017	"Toyota of Seattle, Seattle, WA"	Auto and Gas	-260.37	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+76	12/19/2017	Amazon.com	Gear and Clothing	-16.49	Visa Rewards	xxxx3827	Chase - Credit Card
+77	12/17/2017	Hank's Harvest Foodstwisp WA	Groceries	-27.18	American Express	xxxx1005	American Express Cards
+78	12/16/2017	Khan Academy	Charity	-300	Family Checking	xxxx3244	Chase - Checking
+79	12/15/2017	Roadpost Usa	Subscriptions	-34.22	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+80	12/14/2017	Chevron Service Stn	Auto and Gas	-25.75	American Express	xxxx1005	American Express Cards
+81	12/13/2017	Texaco Service Stn	Auto and Gas	-44.81	American Express	xxxx1005	American Express Cards
+82	12/13/2017	AT&T	Phone	-102.85	Visa Rewards	xxxx5345	Chase - Credit Card
+83	12/12/2017	"Costco Gas, Burlington"	Auto and Gas	-13.77	American Express	xxxx1005	American Express Cards
+84	12/11/2017	"Zeitgeist Coffee, Seattle, WA"	Eating Out	-10.26	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+85	12/11/2017	Dropbox	Subscriptions	-9.71	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+86	12/10/2017	"Storyville Coffee, Seattle, WA"	Eating Out	-11.73	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+87	12/10/2017	Chase Bank Mortgage	Mortgage	-1903	Family Checking	xxxx3244	Chase - Checking
+88	12/10/2017	Paycheck	Paycheck	5544	Family Checking	xxxx3244	Chase - Checking
+89	12/10/2017	Audible	Subscriptions	-15.12	Visa Rewards	xxxx3827	Chase - Credit Card
+90	12/9/2017	North Valley Lumber	Home Improvements	-249.68	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
+91	12/8/2017	Itunes.com	Subscriptions	-2.08	Visa Rewards	xxxx5345	Chase - Credit Card
+92	12/7/2017	"Mazama Store, Mazama"	Eating Out	-16.07	American Express	xxxx1005	American Express Cards
+93	12/6/2017	"Trader Joe's #130, Seattle"	Groceries	-68.52	American Express	xxxx1005	American Express Cards
+94	12/6/2017	New York Times Digital	Subscriptions	-18.12	Visa Rewards	xxxx5345	Chase - Credit Card
+95	12/5/2017	Centurylink	Phone	-24.42	Visa Rewards	xxxx5345	Chase - Credit Card
+96	12/4/2017	Whole Foods - Seattle WA	Groceries	-107.76	American Express	xxxx1005	American Express Cards
+97	12/3/2017	"Portage Bay Cafe and Cate, Seattle, WA"	Eating Out	-60.21	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+98	12/3/2017	Union Garage	Parking	-25.41	Alaska Airlines Visa	xxxx2387	Bank of America - Credit Card
+99	12/2/2017	"Zoka Coffee Roa, Seattle, WA"	Eating Out	-2.52	Alaska Airlines Visa	xxxx1561	Bank of America - Credit Card
+100	12/2/2017	"Okanogan County Energy, Winthrop, WA"	Utilities	-205.44	Alaska Airlines Visa	xxxx3499	Bank of America - Credit Card
