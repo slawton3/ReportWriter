@@ -13,11 +13,7 @@ and sums the amount for each.
 There are two other functions in the program.  One of the functions timestamps when the program was run
 and the other writes human readable analysis output to a text file.
 
-I have developed reports with SQL and other tools like Power BI, so Python data analysis is another tool
-I would like to add to my repertoire.  Working with Pandas can make dealing with large data sets much easier
-and more efficient to prepare and analyze.
-
-## Installation
+## Requirements
 
 In order to run this program, one must have Python 3.8+ installed.
 
@@ -25,13 +21,13 @@ The Python libraries of datetime, Pandas and Tabulate must also be installed to 
 Pip is the package installer for Python so I highly recommend using this tool.
 I use a pipenv virtual environment and run the 
 
-[pip install pandas]
+[python3]
 
-and
+[pip3]
 
-[pip install tabulate]
+## Installation
 
-commands in the pipenv shell to install the libraries.
+[pip3 install -r requirements.txt]
 
 ## Running the program
 
@@ -41,6 +37,4 @@ final.py file and expenseData.txt file saved in the same directory.
 
 When you are ready to execute the program, open the command line and navigate to the directory and run:
 
-[python final.py]
-
-I use Windows, so it may be different for you.
+[python3 final.py]
