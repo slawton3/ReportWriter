@@ -59,6 +59,7 @@ def timeFormatting():
 
 def outputExpenseReport(dateFormat, timeFormat):
     """This function generates a human readable report from the initial expense data."""
+    print('Creating file...')
     x = ExpenseFile('expenseData.txt')
     drillDown = x.expenseDrillDown()
     paySum = x.sumExpenses()
@@ -67,8 +68,9 @@ def outputExpenseReport(dateFormat, timeFormat):
     methods = x.paymentMethod()
 
     """This part of the function outputs all data to the text file and closes the file."""
-    with open("../expenseReport.txt", "w") as outFile:
+    with open("./expenseReport.txt", "w") as outFile:
         # Writing data to a file
+        print('Writing data to file...')
         outFile.write("Expense report generated on " + str(dateFormat) + " at " + str(timeFormat) + ". \n\n\n")
         outFile.write("The number of line items from the expense data is " + str(totalLines) + ". \n\n\n")
         outFile.write("The total sum of expenses for this period is " + str(currency) + ". \n\n\n")
